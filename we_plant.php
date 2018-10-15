@@ -14,6 +14,7 @@
             'order'          => 'DESC'
         ) );
         
+		
         $onlyTitlee = '<div>';
         $eventCount = 0;
         foreach ( $events as $post ) {
